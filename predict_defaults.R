@@ -1,7 +1,3 @@
-###Rahul Gera
-###Robin Beura
-###Namrata Shindalya
-
 library(tidyverse)
 library(lubridate)
 library(readxl)
