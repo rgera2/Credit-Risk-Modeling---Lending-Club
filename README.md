@@ -1,4 +1,4 @@
-# Credit Risk Modeling
+# Loan_default-prediction_and_investment_strategies
 # Background
 Lending Club (LC) offers an online platform for matching borrowers seeking loans and lenders looking to make an investment. With lower operational costs than traditional lenders (banks), such online lending platforms leverage technology, data and analytics to bring quicker and more convenient financing for individual and small business borrowers from investors looking for attractive investment yields.
 
