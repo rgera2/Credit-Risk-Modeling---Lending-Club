@@ -19,6 +19,7 @@ Decision Trees,
 Random Forest,
 GLM (Lasso and Ridge),
 GBM
+
 For calculation of annual returns:
 RF, GLM and GBM
 
