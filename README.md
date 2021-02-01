@@ -13,7 +13,6 @@ The subsequent task was to develop models to identify god/bad loans, and to eval
 
 # Models
 Models used were - 
-
 For prediction of defaulters: 
 Decision Trees,
 Random Forest,
