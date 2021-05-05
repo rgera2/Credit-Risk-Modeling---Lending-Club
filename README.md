@@ -8,8 +8,8 @@ LC issues personal loans between $1000 and $40,000 for 36 to 60 month durations.
 To facilitate investment, LC provides access to their data (https://www.lendingclub.com/info/download-data.action - sign up required).
 
 # Analysis
-In this assignment, I first explored the data on loans, developed an understanding of loan grades and subgrades and how they related to default and returns performance, loan purpose and any relation to performance, analyses of returns from loans, etc. I also handled the missing data accordingly. While the data carries information on over 100 variables, I had to determine what data would be available when looking to invest in a loan — since our goal wass to develop a model to predict loan default and then to decide which loans to invest in; such a model would thus be only able to consider variables available before a loan was issued.
-The subsequent task was to develop models to identify god/bad loans, and to evaluate these. I also considered investment performance corresponding to these models and identified the best model.
+In this assignment, I first explored the data on loans, developed an understanding of loan grades and subgrades and how they related to default and returns performance, loan purpose and any relation to performance, analyses of returns from loans, etc. I also handled the missing data accordingly. While the data carries information on over 100 variables, I had to determine what data would be available when looking to invest in a loan — since our goal was to develop a model to predict loan default and then to decide which loans to invest in; such a model would thus be only able to consider variables available before a loan was issued.
+The subsequent task was to develop models to identify good/bad loans, and to evaluate these. I also considered investment performance corresponding to these models and identified the best model.
 
 # Models
 Models used were - 
